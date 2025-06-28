@@ -1,1 +1,48 @@
+# Ignore CSV and other data files
 *.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.xml
+*.db
+*.sqlite
+*.hdf5
+*.parquet
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Git files
+*.orig
+
+# Large files or model weights
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.pt
+*.onnx
