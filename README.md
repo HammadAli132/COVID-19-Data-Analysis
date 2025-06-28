@@ -61,10 +61,15 @@ To perform end-to-end exploratory data analysis (EDA) on COVID-19 datasets and v
 ## 📁 Project Structure
 
 covid19-analysis/
+
 │
+
 ├── covid_analysis.ipynb # Main Jupyter Notebook
+
 ├── covid_data.csv # Raw dataset
+
 ├── README.md # Project documentation
+
 └── outputs/ # Plots and visualizations
 
 ## 🚀 How to Run
