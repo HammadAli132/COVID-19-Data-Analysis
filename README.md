@@ -32,7 +32,7 @@ To perform end-to-end exploratory data analysis (EDA) on COVID-19 datasets and v
    - Filtering and grouping data for analysis
 
 2. **Trend Analysis**
-   - Daily and cumulative case trends for top countries
+   - Monthly cumulative case trends for top 10 countries
    - Death and recovery trends over time
    - Vaccination progress globally
 
